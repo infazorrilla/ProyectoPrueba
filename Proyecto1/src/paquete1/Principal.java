@@ -6,6 +6,7 @@ public class Principal {
 		System.out.println("Estamos empezando el proyecto con Git");
 		System.out.println("1ª modificacion del proyecto");
 		System.out.println("2ª modificacion en proyecto de la profesora Ana.");
+		System.out.println("2ª intento.");
 	}
 
 }
